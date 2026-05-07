@@ -1,5 +1,5 @@
-# LinuxBeginer
-#terminal codes to become familiar with the terminal
+# LinuxBeginner
+# terminal codes to become familiar with the terminal
 sudo apt install cava
 cava
 sudo apt install sl
