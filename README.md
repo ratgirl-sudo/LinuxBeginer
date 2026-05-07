@@ -1,11 +1,13 @@
 # LinuxBeginner
 # terminal codes to become familiar with the terminal
-sudo apt install cava
-cava
-sudo apt install sl
-sl
-sudo apt install curl
-curl can be used for ALOT. I'll list a few below
+- sudo apt install cava
+- cava
+- 
+- sudo apt install sl
+- sl
+- 
+- sudo apt install curl
+- curl can be used for ALOT. I'll list a few below
 # curl ascii.live/
 after / run any of these 
 - forrest  
