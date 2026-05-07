@@ -26,17 +26,18 @@ to see your ip, try
  to geolocate yourself, try
 - curl api.ip2location.io
 - curl ip-api.com
-- curl ifconfig.co/country 
+- curl ifconfig.co/country
+  
 to see news
 - curl hkkr.in
   (these ones can be abit odd and not function as intended, id suggest trial and error </3)
 
 - curl https://icanhazdadjoke.com
-- curl gif.xyzzy.run
- 
+- curl gif.xyzzy.run/  (after the slash type anything. LITERALLY anything.)
+  
 # Misc.
 - curl rate.sx (exchange rates)
-
+- ssh -p 8080 -l magnetic magneticscrolls.net (password : scrolls)
 # weather
 - curl wttr.in/ (after / type in a location)
 - nc rainmaker.wunderground.com 3000
