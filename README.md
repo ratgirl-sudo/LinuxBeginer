@@ -16,7 +16,8 @@ after / run any of these
 - clock
 - can-you-hear-me
 - donut 
-
+- nyan
+  
 to see your ip, try
 - curl -L tnx.nl/ip
 - curl -L ifconfig.me
@@ -32,10 +33,13 @@ to see news
 
 # Generators 
 curl https://icanhazdadjoke.com
-
+curl
 # Money (exchange rates and values etc.)
 curl rate.sx
-
+# weather
+- curl wttr.in/ (after / type in a location)
+- nc rainmaker.wunderground.com 3000
+- finger oslo@graph.no (oslo used as location example, any location works)
 
 
 telnet towel.blinkenlights.nl 
