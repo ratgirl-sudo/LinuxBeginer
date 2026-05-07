@@ -8,10 +8,10 @@ sudo apt install curl
 curl can be used for ALOT. I'll list a few below
 # curl ascii.live/
 after / run any of these 
-forrest  
-parrot
-clock
-can-you-hear-me
+- forrest  
+- parrot
+- clock
+- can-you-hear-me
 # donut 
 
 # to see your ip, try
