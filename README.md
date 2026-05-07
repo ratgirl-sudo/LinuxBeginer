@@ -1,6 +1,6 @@
-# LinuxBeginner
-# terminal codes to become familiar with the terminal
-- sudo apt install cava
+
+# simple commands
+- sudo apt install cava (Volume reactive sound display)
 - cava
   
 - sudo apt install sl
@@ -21,23 +21,23 @@ to see your ip, try
 - curl -L tnx.nl/ip
 - curl -L ifconfig.me
 - curl ipcalf.com
+  
  to geolocate yourself, try
 - curl api.ip2location.io
 - curl ip-api.com
 - curl ifconfig.co/country 
 to see news
 - curl hkkr.in
-(These ones can be abit odd and not function as intended)
+  (these ones can be abit odd and not function as intended, id suggest trial and error </3)
 
-# generators 
+# Generators 
 curl https://icanhazdadjoke.com
 
-# money (exchange rates and values etc.)
+# Money (exchange rates and values etc.)
 curl rate.sx
 
 
 
 telnet towel.blinkenlights.nl 
-# doesn't always work, in such a case try 
-ssh -p 2222 guest@telehack.com
-# then type starwars after it completes that process.
+(doesn't always work, in such a case try ssh -p 2222 guest@telehack.com)
+then type starwars after it completes that process.
