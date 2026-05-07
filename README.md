@@ -8,7 +8,8 @@
   
 - sudo apt install curl
 - curl can be used for ALOT. I'll list a few below
-# curl ascii.live/
+  # cUrl commands
+curl ascii.live/
 after / run any of these 
 - forrest  
 - parrot
@@ -16,19 +17,17 @@ after / run any of these
 - can-you-hear-me
 - donut 
 
-# to see your ip, try
-curl -L tnx.nl/ip
-curl -L ifconfig.me
-curl ipcalf.com
-
-# to geolocate yourself, try
-curl api.ip2location.io
-curl ip-api.com
-curl ifconfig.co/country 
-
-# to see news
-curl hkkr.in
-# these ones can be abit odd and not function as intended
+to see your ip, try
+- curl -L tnx.nl/ip
+- curl -L ifconfig.me
+- curl ipcalf.com
+ to geolocate yourself, try
+- curl api.ip2location.io
+- curl ip-api.com
+- curl ifconfig.co/country 
+to see news
+- curl hkkr.in
+(These ones can be abit odd and not function as intended)
 
 # generators 
 curl https://icanhazdadjoke.com
