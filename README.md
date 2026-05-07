@@ -31,11 +31,12 @@ to see news
 - curl hkkr.in
   (these ones can be abit odd and not function as intended, id suggest trial and error </3)
 
-# Generators 
-curl https://icanhazdadjoke.com
-curl
-# Money (exchange rates and values etc.)
-curl rate.sx
+- curl https://icanhazdadjoke.com
+- curl gif.xyzzy.run
+ 
+# Misc.
+- curl rate.sx (exchange rates)
+
 # weather
 - curl wttr.in/ (after / type in a location)
 - nc rainmaker.wunderground.com 3000
