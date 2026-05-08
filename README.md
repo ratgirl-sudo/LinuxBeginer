@@ -5,6 +5,9 @@
   
 - sudo apt install sl
 - sl
+
+- sudo apt install aafire
+- aafire
   
 - sudo apt install curl
 - curl can be used for ALOT. I'll list a few below
