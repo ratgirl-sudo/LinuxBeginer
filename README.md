@@ -38,7 +38,7 @@ to see news
 - curl https://icanhazdadjoke.com
 - curl gif.xyzzy.run/  (after the slash type anything. LITERALLY anything.)
   
-# Misc.
+# misc.
 - curl rate.sx (exchange rates)
 - ssh -p 8080 -l magnetic magneticscrolls.net (password : scrolls)
 # weather
